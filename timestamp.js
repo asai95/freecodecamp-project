@@ -12,4 +12,4 @@ app.get("/:param", (req, resp) => {
     resp.end()
 })
 
-app.listen(8080)
+app.listen(process.env.PORT)
