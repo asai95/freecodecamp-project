@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "main": "timestamp.js",
     "dependencies": {
-        "express": "4.14.0",
-    }
+        "express": "4.14.0"
+    },
     "repository": {
         "type": "git",
-        "url": "https://github.com/asai95/freecodecamp-timestamp",
+        "url": "https://github.com/asai95/freecodecamp-timestamp"
     }
 }
